@@ -34,26 +34,77 @@ These methods are applied in **inspection, maintenance, and safety management**,
 ---
 
 ### 🧰 Tech Stack
-| Domain | Tools & Frameworks |
-|:--|:--|
-| **Programming** | Python, C#, C++, MATLAB |
-| **AI & ML** | PyTorch, TensorFlow, YOLO, Scikit-learn, OpenCV |
-| **BIM & 3D Modeling** | Revit, Dynamo, Navisworks, Infraworks, BIM360 |
-| **Simulation & Visualization** | Unreal Engine, Twinmotion, NVIDIA Omniverse |
-| **Data Processing** | Pandas, NumPy, Open3D, Matplotlib |
-| **Version Control** | Git, GitHub, Git LFS |
+
+<p align="center">
+  <!-- Programming -->
+  <strong>Programming:</strong><br>
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,matlab" alt="Programming Languages" height="40"/><br><br>
+
+  <!-- AI & ML -->
+  <strong>AI & ML:</strong><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn" alt="AI & ML Frameworks" height="40"/><br><br>
+
+  <!-- BIM & 3D Modeling -->
+  <strong>BIM & 3D Modeling:</strong><br>
+  <img src="https://img.shields.io/badge/Revit-Dynamo-blue?style=for-the-badge&logo=autodesk" alt="Revit Dynamo"/>
+  <img src="https://img.shields.io/badge/Navisworks-Infraworks-blueviolet?style=for-the-badge&logo=autodesk" alt="Navisworks Infraworks"/>
+  <img src="https://img.shields.io/badge/BIM360-blue?style=for-the-badge&logo=autodesk" alt="BIM360"/><br><br>
+
+  <!-- Simulation & Visualization -->
+  <strong>Simulation & Visualization:</strong><br>
+  <img src="https://skillicons.dev/icons?i=unrealengine,blender" alt="3D Simulation" height="40"/>
+  <img src="https://img.shields.io/badge/Twinmotion-3D-blue?style=for-the-badge" alt="Twinmotion"/>
+  <img src="https://skillicons.dev/icons?i=nvidia" alt="Omniverse" height="40"/>
+  <img src="https://img.shields.io/badge/Abaqus-Simulation-blue?style=for-the-badge" alt="Abaqus"/><br><br>
+
+  <!-- Data Processing -->
+  <strong>Data Processing:</strong><br>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" alt="Data Processing" height="40"/>
+  <img src="https://img.shields.io/badge/Open3D-3DData-blue?style=for-the-badge" alt="Open3D"/><br><br>
+
+  <!-- Version Control -->
+  <strong>Version Control:</strong><br>
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Git & GitHub" height="40"/>
+  <img src="https://img.shields.io/badge/Git_LFS-blue?style=for-the-badge" alt="Git LFS"/>
+</p>
+
 
 ---
 
-### 🧑‍💻 Featured Projects
-- 🔥 **Fire and Smoke Simulation for EV Charging Stations using BIM + Unreal Engine**  
-  _Training a YOLOv11 model on synthetic datasets for real-time hazard detection._
+### 🧩 Featured Projects
 
-- 🌉 **Digital Twin for Highway Traffic Management**  
-  _Integration of SUMO simulation and Unity for real-time virtual traffic visualization._
+#### 🏗️ **Development of a Digital Twin System for Monitoring Safety in Construction Sites Using Multi-CCTV and 3D Reconstruction Technologies**  
+**Role:** Research Assistant  
+I led the **3D modeling design** for construction site visualization and integrated the models into a **Digital Twin system** to improve on-site monitoring through multi-camera analysis. My responsibilities include **system integration, project management planning**, and coordination to ensure automated safety monitoring systems are deployed effectively.
 
-- 🧠 **AI-based Construction Safety Monitoring**  
-  _Deep learning model for site hazard recognition using UAV and CCTV data._
+---
+
+#### 🎥 **AI-based CCTV System for Monitoring Construction Sites**  
+**Role:** Research Assistant  
+I contributed to developing an **AI-driven CCTV system** for real-time safety hazard detection and activity tracking. My focus was on **algorithm design, large-scale data analysis**, and **system performance validation** to enhance proactive safety management and automation.
+
+---
+
+#### 🧠 **Image-to-Hazard: GPT-based Logic Reasoning for Hazard Identification in Construction Sites using CCTV Data**  
+**Role:** Research Assistant  
+I worked on **GPT-based reasoning** models that interpret visual data from CCTV to detect potential hazards in real time. This logical reasoning approach improved system intelligence, **reducing human error and enhancing workplace safety** through automated hazard identification.
+
+---
+
+#### 🔍 **VQA-RESCon (Visual Question Answering for Construction)**  
+**Role:** Data Analyst  
+I analyzed and processed large datasets to enhance a **VQA system** tailored for construction environments. I focused on **data modeling, system accuracy**, and ensuring reliable answers to visual queries for better decision-making and resource management.
+
+---
+
+### 🏅 Awards
+
+- 🎓 **International Student Scholarship**, Sungkyunkwan University (Feb 2023)  
+- 🥇 **Gold Medal** – *Red Star Bridge Model*, Contest “Design, Make, Application 7th”, Youth National Creativity Festival (Oct 2019)  
+- 🏆 **National Award** – “Search for Science Students, Euréka XXI” (Sep 2019)  
+- 🥇 **Gold Medal** – *Vietnam National Physics Olympiad*, MOET (Apr 2019)  
+- 🥈 **National Award** – *Vietnam National Mechanics Olympiad*, MOET (Apr 2018)  
+- 🥉 **Bronze Medal** – *Vietnam National Physics Olympiad*, MOET (Apr 2016)
 
 ---
 
