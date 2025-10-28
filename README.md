@@ -36,38 +36,20 @@ These methods are applied in **inspection, maintenance, and safety management**,
 ### 🧰 Tech Stack
 
 <p align="center">
-  <!-- Programming -->
-  <strong>Programming:</strong><br>
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,matlab" alt="Programming Languages" height="40"/><br><br>
-
-  <!-- AI & ML -->
-  <strong>AI & ML:</strong><br>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn" alt="AI & ML Frameworks" height="40"/><br><br>
-
-  <!-- BIM & 3D Modeling -->
-  <strong>BIM & 3D Modeling:</strong><br>
   <img src="https://img.shields.io/badge/Revit-Dynamo-blue?style=for-the-badge&logo=autodesk" alt="Revit Dynamo"/>
   <img src="https://img.shields.io/badge/Navisworks-Infraworks-blueviolet?style=for-the-badge&logo=autodesk" alt="Navisworks Infraworks"/>
   <img src="https://img.shields.io/badge/BIM360-blue?style=for-the-badge&logo=autodesk" alt="BIM360"/><br><br>
-
-  <!-- Simulation & Visualization -->
-  <strong>Simulation & Visualization:</strong><br>
   <img src="https://skillicons.dev/icons?i=unrealengine,blender" alt="3D Simulation" height="40"/>
   <img src="https://img.shields.io/badge/Twinmotion-3D-blue?style=for-the-badge" alt="Twinmotion"/>
   <img src="https://skillicons.dev/icons?i=nvidia" alt="Omniverse" height="40"/>
   <img src="https://img.shields.io/badge/Abaqus-Simulation-blue?style=for-the-badge" alt="Abaqus"/><br><br>
-
-  <!-- Data Processing -->
-  <strong>Data Processing:</strong><br>
   <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" alt="Data Processing" height="40"/>
   <img src="https://img.shields.io/badge/Open3D-3DData-blue?style=for-the-badge" alt="Open3D"/><br><br>
-
-  <!-- Version Control -->
-  <strong>Version Control:</strong><br>
   <img src="https://skillicons.dev/icons?i=git,github" alt="Git & GitHub" height="40"/>
   <img src="https://img.shields.io/badge/Git_LFS-blue?style=for-the-badge" alt="Git LFS"/>
 </p>
-
 
 ---
 
